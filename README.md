@@ -7,6 +7,6 @@ O programa aplica uma fórmula matemática simples com ajustes específicos para
 
 📂 age_ideal_calculator/
 
-├── main.py        # Código principal do programa
+┣ 📜 main.py        # Código principal do programa
 
-└── README.md      # Documentação do projeto
+┗ 📜README.md       # Documentação do projeto
