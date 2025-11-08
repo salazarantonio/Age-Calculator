@@ -1,6 +1,7 @@
 # Age Ideal Calculator
 
-## Um pequeno script em Python que solicita a idade do usuário, valida a entrada e calcula uma “idade ideal” com base em regras pré-definidas por faixas etárias. O programa aplica uma fórmula matemática simples com ajustes específicos para diferentes intervalos de idade, retornando um valor arredondado para cima.
+## Um pequeno script em Python que solicita a idade do usuário, valida a entrada e calcula uma “idade ideal” com base em regras pré-definidas por faixas etárias. 
+O programa aplica uma fórmula matemática simples com ajustes específicos para diferentes intervalos de idade, retornando um valor arredondado para cima.
 
 ## Estrutura do Projeto
 
