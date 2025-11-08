@@ -7,10 +7,17 @@ O programa aplica uma fórmula matemática simples com ajustes específicos para
 ## Estrutura do Projeto
 
 📂 age_ideal_calculator/
-
 ┣ 📜 main.py        # Código principal do programa
-
 ┗ 📜README.md       # Documentação do projeto
+
+---
+
+## Funcionalidades
+- **Leitura e validação** da idade.
+- **Cálculo** da idade ideal.
+- Estrutura **modular e clara.**
+
+---
 
 ## Tecnologias Utilizadas
 
