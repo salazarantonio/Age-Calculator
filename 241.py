@@ -45,7 +45,7 @@ def check_age(idade: int) -> int:
     for min_a, max_a, offset in _rules():
         if min_a <= idade <= max_a:
             return ceil((idade / 2) + offset)
-    #  padrão quando não estiver nas faixas acima.
+    # Padrão quando não estiver nas faixas acima.
     return ceil((idade / 2) + 7)
 
 def main() -> None:
