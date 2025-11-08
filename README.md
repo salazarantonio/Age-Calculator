@@ -5,9 +5,9 @@ O programa aplica uma fórmula matemática simples com ajustes específicos para
 
 ## Estrutura do Projeto
 
-📂 age_ideal_calculator/
-┣ 📜 main.py        # Código principal do programa
-┗ 📜README.md       # Documentação do projeto
+📂 age_ideal_calculator/ <br>
+┣ 📜 main.py        # Código principal do programa <br>
+┗ 📜README.md       # Documentação do projeto <br>
 
 ---
 
