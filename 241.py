@@ -51,7 +51,7 @@ def check_age(idade: int) -> int:
 def main() -> None:
     idade = get_your_age()
     ideal = check_age(idade)
-    print(f"A sua idade é {idade} anos e a idade ideal para torar ela é {ideal}.")
+    print(f"A sua idade é {idade} anos e a idade ideal do parceira(o) pra você é {ideal}.")
 
 if __name__ == "__main__":
     main()
